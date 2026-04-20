@@ -132,7 +132,7 @@ ping -c 10 127.0.0.1
 * Scapy
 * Flask
 * Nmap
-
+* Kali Linux
 ---
 
 ## 👨‍💻 Author
